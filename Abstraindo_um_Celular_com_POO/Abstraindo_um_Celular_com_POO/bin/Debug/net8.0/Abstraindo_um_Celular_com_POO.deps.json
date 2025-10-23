@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Abstraindo_um_Celular_com_POO/1.0.0": {
+        "runtime": {
+          "Abstraindo_um_Celular_com_POO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Abstraindo_um_Celular_com_POO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
